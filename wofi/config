@@ -1,0 +1,10 @@
+show=drun
+always_parse_args=true
+show_all=false
+print_command=true
+insensitive=true
+prompt=Search...
+allow_images=true
+image_size=60
+display_generic=true
+location=center

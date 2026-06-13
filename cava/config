@@ -3,7 +3,7 @@ bars = 20
 framerate = 60
 
 [input]
-method = pulse
+method = pipewire
 source = auto
 
 [output]
@@ -15,7 +15,7 @@ gradient = 0
 foreground = 'white'
 
 [smoothing]
-noise_reduction = 85
+noise_reduction = 10
 monstercat = 1
 waves = 1
 gravity = 150

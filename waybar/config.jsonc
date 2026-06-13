@@ -19,6 +19,6 @@
     "group/audio",
     "group/connections",
     "clock",
-    "group/tray-group"
-  ]
+    "group/tray-group",
+  ],
 }

@@ -1,2 +1,2 @@
 # Credits
-@haikal-hakim/athena
+waybar: @haikal-hakim/athena

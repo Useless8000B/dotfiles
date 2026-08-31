@@ -1,6 +1,6 @@
 {
-  "hyprland/workspaces": {
-    "format": "{icon} {windows}",
+  "niri/workspaces": {
+    "format": "{icon}",
     "on-click": "activate",
     "persistent-workspaces": {
       "*": 5
@@ -8,27 +8,14 @@
     "window-rewrite-default": "󰊠",
     "window-rewrite": {
       // --- Work ---
-      "kitty": "󰆍",
-      "onlyoffice": "󰏆",
-      "firefox": "",
-      "code": "󰨞",
-      "azahar": "",
-      "obsidian": "󰹕",
-      "mousepad": "󱓧",
+      "foot": "󰆍",
+      "zen-browser": "",
+      "codium": "󰨞",
       // --- Apps ---
       "discord": "",
       "spotify": "",
-      "org.kde.kdeconnect.app": "󰦉",
-      "org.qbittorrent.qBittorrent": "󰘿",
       // --- Graphics & Visual ---
-      "xdg-desktop-portal-gtk": "",
       "thunar": "",
-      "yazi": "󰇥",
-      "imv": "󰄄",
-      "swappy": "󰄄",
-      "org.gnome.FileRoller": "",
-      "vlc": "󰕼",
-      "mpv": "󰕼",
       // --- System ---
       "blueman-manager": "",
       "pavucontrol": "󱕂",
